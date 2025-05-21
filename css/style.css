@@ -17,4 +17,48 @@ ol {
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
+}
+
+.topics__inner {
+  margin-bottom: 32px;
+}
+
+.topics__title {
+  margin-bottom: 7.9px;
+}
+
+.topics__list {
+  display: flex;
+  gap: 17px;
+}
+
+.topics__img {
+  margin-bottom: 8.12px;
+}
+
+.topics-item__title {
+  margin-bottom: 3.69px;
+}
+
+.topics__text {
+  margin-bottom: 4.39px;
+}
+
+.span {
+  margin-bottom: 5.9px;
+  display: flex;
+}
+
+.span2 {
+  display: flex;
+  margin-bottom: 10px;
+  gap: 7.8px;
+}
+
+.bestseller {
+  padding: 3px 7px;
+  border-radius: 3px;
+  background-color: #C2E9EB;
+  color: #0D5261;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
