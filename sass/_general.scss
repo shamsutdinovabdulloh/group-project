@@ -14,8 +14,11 @@ ol{
 
 
 .container{
-    width: 1425px;
+    max-width: 1425px;
     padding-left: 20px;
     padding-right: 20px;
     margin: 0 auto;
+}
+a{
+    text-decoration: none;
 }
