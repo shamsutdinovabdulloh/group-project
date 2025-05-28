@@ -1,0 +1,177 @@
+.next {}
+
+.next__out {
+    margin-top: 28px;
+}
+
+.next__inner {}
+
+.subinner {}
+
+.next__title {
+    font-family: Georgia;
+    font-weight: 700;
+    font-size: 30.88px;
+    line-height: 40px;
+    letter-spacing: -0.16px;
+}
+
+.next__box {
+    display: flex;
+    margin-top: 24px;
+    align-items: center;
+}
+
+.next__box-text {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    color: #2A2B3F;
+}
+
+.next__box-link {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 0%;
+    text-decoration-skip-ink: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title {
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    width: 1444px;
+    overflow: scroll;
+    gap: 20px;
+
+}
+
+.title__item {}
+
+
+
+.item__h4 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    width: 216px;
+    margin-bottom: 4px;
+
+}
+
+.item__text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16.8px;
+    letter-spacing: 0%;
+    color: #595C73;
+}
+
+.otsenka {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.otsenka__text {
+    color: #8B4309;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.8px;
+    letter-spacing: 0%;
+
+}
+
+.prices {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+
+}
+
+.newprice {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0%;
+
+}
+
+.del {
+    color: #595C73;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0%;
+    text-decoration: line-through;
+
+}
+
+
+
+
+
+
+
+
+
+.secondpart {
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    width: 1444px;
+    overflow: scroll;
+    gap: 20px;
+
+}
+
