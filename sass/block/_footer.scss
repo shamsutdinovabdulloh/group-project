@@ -1,0 +1,121 @@
+.footer {}
+
+.footer__top {
+    background-color: #1D1E27;
+    border-bottom: 1px solid #B7B9CD;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+
+.footer__top-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__top-inner-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__teach-online {}
+
+.footer__teach-title {
+    color: white;
+}
+
+.footer__teacher-text {
+    color: white;
+}
+
+.footer__top-btn {
+    width: 134.6300048828125px;
+    height: 40px;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+}
+
+.footer__teach-bisness {
+    text-decoration: none;
+    color: #C0C4FC;
+}
+
+.footer__top-inner-3 {
+    background-color: #1D1E27;
+    padding-top: 41.5px;
+    margin-bottom: 24px;
+}
+
+.footer__inner-bottom {
+    background-color: #111116;
+    padding-top: 41.5px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #9194AC
+}
+
+
+.footer__title {
+    font-family: Georgia;
+    font-weight: 700;
+    font-size: 17.72px;
+    line-height: 24.3px;
+    letter-spacing: -0.09px;
+    color: #FFFFFF;
+}
+
+.footer__top-list {
+    margin-bottom: 40.01px;
+    display: flex;
+    gap: 32px;
+    justify-content: space-between;
+}
+
+.footer__top-item {}
+
+.footer__list-title {
+    margin-bottom: 16px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin-top: 40.79px;
+}
+
+.footer__list-text {}
+
+.hover {
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.footer__list-text:hover {
+    color: #B7B9CD;
+}
+
+.footer__bottom-inner-2 {
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 24px;
+    justify-content: space-between;
+    border-top: 1px solid #9194AC
+}
+
+
+.footer__bottom-inner-text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
