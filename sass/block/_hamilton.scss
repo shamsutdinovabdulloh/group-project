@@ -1,0 +1,66 @@
+.hamilton {
+  padding: 60px 0;
+  font-family: Arial, sans-serif;
+}
+
+.hamilton__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.hamilton__left {
+  flex: 1;
+  max-width: 550px;
+}
+
+.hamilton__left h4 {
+  font-size: 18px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.hamilton__left h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1d1d3f;
+  margin-bottom: 25px;
+}
+
+.hamilton__stats {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.stat h3 {
+  font-size: 32px;
+  color: #1d1d3f;
+  margin: 0;
+}
+
+.stat p {
+  font-size: 14px;
+  color: #666;
+}
+
+.btn {
+  background: #6c2bd9;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.hamilton__right {
+  flex: 1;
+  text-align: center;
+}
+
+.hamilton__right img {
+  max-width: 100%;
+  border-radius: 10px;
+}
